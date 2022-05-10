@@ -1,4 +1,4 @@
-## Bem-vindo(a) Eu sou o Mateus 😁
+## Bem-vindo(a), Eu sou o Mateus 😁
 
 
  <div>
@@ -17,5 +17,5 @@
 
 ![Snake animation](https://github.com/MateusMilani/MateusMilani/blob/output/github-contribution-grid-snake.svg)
 
-  <a href="www.linkedin.com/in/mateus-milani25/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mateus-milani25/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
